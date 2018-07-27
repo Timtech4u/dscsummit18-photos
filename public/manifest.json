@@ -1,6 +1,6 @@
 {
-  "name": "dscsummit-2018",
-  "short_name": "dscsummit-2018",
+  "name": "DSCSummitApp",
+  "short_name": "DSCSummitApp",
   "icons": [
     {
       "src": "/img/icons/android-chrome-192x192.png",
